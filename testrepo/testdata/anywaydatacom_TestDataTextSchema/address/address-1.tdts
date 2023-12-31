@@ -1,0 +1,10 @@
+firstname
+name.firstName
+lastname
+name.lastName
+street
+address.streetAddress
+zipCode
+address.zipCode
+city
+address.city
