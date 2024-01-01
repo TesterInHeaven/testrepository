@@ -1,1 +1,0 @@
-| 1 | programmieren lernen mit Chris | python + (mysql free install) + Datenbank erstellen | https://www.youtube.com/watch?v=8s9C4mLFWEc&list=PLsqK1bXH7ttoHf4SYUK7kiwVPvFeI__bc |
