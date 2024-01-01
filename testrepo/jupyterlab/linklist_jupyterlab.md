@@ -1,0 +1,2 @@
+| 1 | Thu Vu data analytics | jupyterlab better than jupyter notebook | https://youtu.be/zai2pLUD9FA |
+| 2 | jupyterlab | installation steps => conda or pip | https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html |
